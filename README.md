@@ -1,5 +1,5 @@
 # Webp-Converter
-A testing application of the library "webp-converter"
+A testing application of the library "webp-converter", will convert all .webp files on the "arquivos" folder to .jpg
 
 ### Getting Started :computer:
 
