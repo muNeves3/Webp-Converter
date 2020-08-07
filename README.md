@@ -7,20 +7,15 @@ A testing application of the library "webp-converter"
 git clone https://github.com/muNeves3/Webp-Converter
 ```
 
-## Install
+## Install :robot:
 
 ```sh
-yarn install
+npm install
 ```
 
-## Usage
+## Runing :rocket:
 
 ```sh
-yarn run start
+node index.js
 ```
 
-## Run tests
-
-```sh
-yarn run test
-```
